@@ -22,5 +22,5 @@ Seeders que podem ajudar na produção de dados aleatórios:
 
 Para cada issue, há um teste correspondente, exemplo:
 
-    ./vendor/bin/phpunit --filter Issue2Test
+    ./vendor/bin/phpunit --filter Issue2Test 
 
